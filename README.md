@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hema Karnam and I’m currently learning python
+- 👋 Hi, I’m Hema Karnam and here to learn python...
 
 <!---
 hkarnam/hkarnam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
